@@ -23,13 +23,13 @@
 
 .navbar button{
     width: auto;
-    margin: 0 1em;
+    margin: 0 .5rem;
     border: none;
     background-color: transparent;
     color: #FFFF;
     font-family: 'Baloo 2', cursive;
     font-weight: 600;
-    font-size: 2em;
+    font-size: 1.5rem;
     cursor: pointer;
 }
 
@@ -49,5 +49,5 @@
     line-height: 0%;
     color: #fd57a2a1;
     font-family: 'Abel', sans-serif;
-    font-size: 3em;
+    font-size: 2em;
 }
