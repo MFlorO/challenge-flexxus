@@ -12,10 +12,10 @@
 }
 
 .loading{
-    margin-left: 55em;
+    margin-left: 55rem;
     text-align: center;
     font-family: 'Baloo 2', cursive;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 2rem;
     color: #818181;
 }
