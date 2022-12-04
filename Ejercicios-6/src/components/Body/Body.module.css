@@ -1,0 +1,17 @@
+
+.container{
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    width: 100%;
+    height: auto;
+    min-height: 30vh;
+  }
+
+
+.noResultados{
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Baloo 2', cursive;
+  font-weight: 600;
+}

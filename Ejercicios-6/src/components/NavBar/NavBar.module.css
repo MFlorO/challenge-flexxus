@@ -1,0 +1,53 @@
+
+
+.container{
+    width: 100%;
+    height: 50vh;
+    background-color: #F6C2C4;
+    display: flex ;
+    flex-direction: column;
+    padding-top: 2rem;
+    background-image: url('./assets/fondo.jpg');
+    background-position-y: 30%;
+    background-size: cover;
+}
+
+.navbar { 
+    height: 8%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 2rem;
+    margin-left: 5rem;
+}
+
+.navbar button{
+    width: auto;
+    margin: 0 3rem;
+    border: none;
+    background-color: transparent;
+    color: #FFFF;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.navbar button:hover{
+    border-bottom: 3px solid #c6214a; 
+}
+
+
+.banner{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 50%;
+    align-self: flex-end;
+    justify-self: flex-end;
+    height: 80%;
+    line-height: 0%;
+    color: #fd57a2a1;
+    font-family: 'Abel', sans-serif;
+    font-size: 50px;
+}

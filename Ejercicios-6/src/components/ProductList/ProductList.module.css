@@ -1,0 +1,21 @@
+.container {
+    margin: 5rem 0rem;
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+
+    /* display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 50px 3px; */
+}
+
+.loading{
+    margin-left: 55rem;
+    text-align: center;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #818181;
+}

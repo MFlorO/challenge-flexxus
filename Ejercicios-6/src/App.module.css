@@ -1,0 +1,9 @@
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    /* height: auto; */
+    padding: 0 10em;
+    background-color: #FFFF;
+}

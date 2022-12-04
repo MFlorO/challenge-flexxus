@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "code": "143457",
+        "name": "SOUNDCORE SERIES LIFE Q30",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_868575-MLA48132252111_112021-F.webp",
+        "cost": "100.000"
+    },
+    {
+        "id": "2",
+        "code": "143494",
+        "name": "JBL T510BT",
+        "img": "https://medias.musimundo.com/medias/00638005-144620-144620-01-144620-01.jpg-size515?context=bWFzdGVyfGltYWdlc3wzMzYzOHxpbWFnZS9qcGVnfGg1Ni9oOTcvMTA0MzI5OTAyMTYyMjIvMDA2MzgwMDUtMTQ0NjIwLTE0NDYyMF8wMS0xNDQ2MjBfMDEuanBnX3NpemU1MTV8M2RhNzFkZTBhOTRlYzNkZDY1MzRmYjdkNDlmODBmNmJiZjcxODI0YTRkMDA1MDM1MDllZDY1OGYzMWNjM2NiZA",
+        "cost": "210.000"
+    },
+    {
+        "id": "3",
+        "code": "147456",
+        "name": "GAMER HYPERX CLOUD",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_759620-MLA40185983217_122019-F.webp",
+        "cost": "130.000"
+    },
+    {
+        "id": "4",
+        "code": "143458",
+        "name": "RAZER KRAKEN BT KITTY",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_972211-MLA51325213016_082022-O.webp",
+        "cost": "50.000"
+    },
+    {
+        "id": "5",
+        "code": "193456",
+        "name": "AURICULARES TRUST EAZE",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_2X_855012-MLA47762522034_102021-F.webp",
+        "cost": "150.000"
+    },
+    {
+        "id": "6",
+        "code": "103456",
+        "name": "REDRAGON H350 PANDORA USB",
+        "img": "https://mundofixar.vtexassets.com/arquivos/ids/537248-800-auto?v=638056004835300000&width=800&height=auto&aspect=true",
+        "cost": "90.000"
+    },
+    {
+        "id": "7",
+        "code": "143706",
+        "name": "HEADSET GAMER HAVIT HV-H2232 D",
+        "img": "https://medias.musimundo.com/medias/00421053-143706-143706-01-143706-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w1MjQwOHxpbWFnZS9qcGVnfGg0MS9oYWUvMTAzODA3OTYxMzM0MDYvMDA0MjEwNTMtMTQzNzA2LTE0MzcwNl8wMS0xNDM3MDZfMDEuanBnX3NpemU1MTV8ZDNiNzJlZWFjYmQ1Yjg1ZmRhZDE4M2I3YWU1OTk0Y2JlMjc3Yjc2MDM1MjViNmExYTNhZTI5NjY3ODVjNjk3Yw",
+        "cost": "3.000"
+    },
+    {
+        "id": "8",
+        "code": "185756",
+        "name": "HEADSET GAMER NOGA STORMER",
+        "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/417/248/products/600_750-python-0111-e9215c29c67b4ce71c16281892116247-640-0.jpg",
+        "cost": "2.550"
+    },
+    {
+        "id": "9",
+        "code": "143456",
+        "name": "HEADSET GAMER CONSTRICTOR",
+        "img": "https://medias.musimundo.com/medias/00407028-143456-143456-01-143456-01.jpg-size515?context=bWFzdGVyfGltYWdlc3w0NDk2NnxpbWFnZS9qcGVnfGg3My9oMzYvMTAzODA3MTA3MDcyMzAvMDA0MDcwMjgtMTQzNDU2LTE0MzQ1Nl8wMS0xNDM0NTZfMDEuanBnX3NpemU1MTV8M2QyYmM5ZjU1OGQxYjE1MjVjOThjNTQ3NGU2YmIwMzhkZjIzMDQ0YTlhZDZlNGU5NzdiZTFjY2NjMTA4MDc4YQ",
+        "cost": "2.700"
+    }
+]
