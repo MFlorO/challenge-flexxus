@@ -4,7 +4,7 @@
 
     display: flex;
     flex-wrap: wrap;
-    gap: 4rem;
+    gap: 4em;
 
     /* display: grid;
     grid-template-columns: repeat(3, auto);
@@ -12,7 +12,7 @@
 }
 
 .loading{
-    margin-left: 55rem;
+    margin-left: 55em;
     text-align: center;
     font-family: 'Baloo 2', cursive;
     font-weight: 400;
