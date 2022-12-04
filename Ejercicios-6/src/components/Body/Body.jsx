@@ -6,7 +6,7 @@ import s from "./Body.module.css";
 
 
 const Body = () => {
-  const [productState, productCopia, setProductCopia] = useProductContext()
+  const [ , productCopia] = useProductContext()
 
   return (
     <div className={s.container}>

@@ -18,18 +18,18 @@
     flex-direction: row;
     justify-content: center;
     padding-bottom: 2rem;
-    margin-left: 5rem;
+    margin-left: 6rem;
 }
 
 .navbar button{
     width: auto;
-    margin: 0 3rem;
+    margin: 0 1rem;
     border: none;
     background-color: transparent;
     color: #FFFF;
     font-family: 'Baloo 2', cursive;
     font-weight: 600;
-    font-size: 28px;
+    font-size: 2rem;
     cursor: pointer;
 }
 
@@ -49,5 +49,5 @@
     line-height: 0%;
     color: #fd57a2a1;
     font-family: 'Abel', sans-serif;
-    font-size: 50px;
+    font-size: 3rem;
 }
