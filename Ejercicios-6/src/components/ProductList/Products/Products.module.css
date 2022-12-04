@@ -46,17 +46,17 @@
 .textosPrincipales h3{
     color: black;
     font-weight: 600;
-    font-size: 1.8rem;
+    font-size: 1.5em;
 }
 
 .textosPrincipales p {
     color: #b3b3b3;
-    font-size: 1.3rem;
+    font-size: 1.3em;
 }
 
 
 .textos span {
     color: black;
     font-weight: 600;
-    font-size: 2rem;
+    font-size: 1.5em;
 }
