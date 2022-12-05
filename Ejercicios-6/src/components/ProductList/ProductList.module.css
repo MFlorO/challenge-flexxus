@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 8em;
+    gap: 120px;
 
     /* display: grid;
     grid-template-columns: repeat(3, auto);
