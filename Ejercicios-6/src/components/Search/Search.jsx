@@ -6,12 +6,9 @@ import { useProductContext } from "~/Hook/productContext";
 
 
 
-
-
-
 const Search = () => {
 
-  const [productState, productCopia, setProductCopia] = useProductContext() //Me traigo del Context el estado 
+  const [productState, productCopia, setProductCopia] = useProductContext() 
   
 
   const [search, setSearch] = useState("")
@@ -31,7 +28,7 @@ const Search = () => {
 
     if (productCopia && productCopia.length === productState.length){  //Caso: Busco por primera vez
 
-      const resultados = productCopia?.filter( (e) => funcion(e)) //Filtro el original
+      const resultados = productCopia?.filter( (e) => funcion(e)) 
 
       resultados.length > 0 ? setProductCopia(resultados) :  setProductCopia("")  //Busco y NO hay coincidencias --> Esto utilizo para el boton de TRY AGAIN
                                  //Busco y hay concidencias: Muestro la copia con los resultados 

@@ -13,7 +13,9 @@ const Body = () => {
 
       <Search />
 
-      { productCopia !== "" ? <ProductList /> : <h3 className={s.noResultados}>No existe nada con ese nombre. ¡INTENTA NUEVAMENTE!</h3> }
+      { productCopia !== "" ? <ProductList /> : 
+      <h3 className={s.noResultados}>No existe nada con ese nombre. ¡INTENTA NUEVAMENTE!</h3>
+      }
 
        <Count/>
 
