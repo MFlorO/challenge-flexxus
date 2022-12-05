@@ -17,8 +17,6 @@ export const ProductProvider = ({ children }) =>{
       }, 3000)
   }, [])
 
-  console.log(productState)
-
   return <ProductContext.Provider value={[productState,productCopia, setProductCopia]}>{children}</ProductContext.Provider>
 }
 
