@@ -1,8 +1,8 @@
 
 .container{
     background-color: red;
-    min-width: 90%;
-    margin: 0 5rem;
+    min-width: 50%;
+    margin: 0 4rem;
     width: 25rem;
     height: 100%;
     display: flex ;
@@ -10,8 +10,8 @@
 }
 
 .container img{
-    height: 15rem;
-    width: 16rem;
+    height: 14rem;
+    width: 14rem;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius: 0.5rem;
     transition: 0.3s;
@@ -47,17 +47,25 @@
 .textosPrincipales h3{
     color: black;
     font-weight: 600;
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 
 .textosPrincipales p {
     color: #b3b3b3;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 
 .textos span {
     color: black;
     font-weight: 600;
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
+
+
+
+
+/* @media screen and (max-width: 360px) {
+
+}
+ */
