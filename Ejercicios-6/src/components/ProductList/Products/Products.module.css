@@ -1,16 +1,17 @@
 
 .container{
+    background-color: red;
     min-width: 90%;
-    margin: 0 5em;
-    width: 28em;
+    margin: 0 5rem;
+    width: 25rem;
     height: 100%;
     display: flex ;
     flex-direction: row;
 }
 
 .container img{
-    height: 15em;
-    width: 16em;
+    height: 15rem;
+    width: 16rem;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius: 0.5rem;
     transition: 0.3s;
