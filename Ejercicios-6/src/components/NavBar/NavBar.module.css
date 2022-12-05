@@ -33,11 +33,6 @@
     cursor: pointer;
 }
 
-.navbar button:hover{
-    border-bottom: 3px solid #c6214a; 
-}
-
-
 .banner{
     display: flex;
     align-items: flex-end;
