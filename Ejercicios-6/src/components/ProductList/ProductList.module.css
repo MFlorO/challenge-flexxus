@@ -13,7 +13,7 @@
 }
 
 .loading{
-    margin-left: 55rem;
+    justify-content: center;
     text-align: center;
     font-family: 'Baloo 2', cursive;
     font-weight: 400;
