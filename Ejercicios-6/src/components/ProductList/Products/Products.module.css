@@ -1,8 +1,8 @@
 
 .container{
-    background-color: red;
+    /* background-color: red; */
     min-width: 50%;
-    margin: 0 4rem;
+    /* margin: 0 4rem; */
     width: 25rem;
     height: 100%;
     display: flex ;
