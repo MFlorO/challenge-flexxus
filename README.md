@@ -1,5 +1,13 @@
-# INSTRUCCIONES PARA CORRER EL ARCHIVO "EJERCICIOS-6"
+## Descripcion del proyecto
+Un catálogo de auriculares para mujeres
 
+# Teconologías utilizadas:
+- React
+- Hook
+- Module Css
+
+
+# INSTRUCCIONES PARA CORRER EL ARCHIVO "EJERCICIOS-6"
 
 ## Antes de empezar
 Es necesario tener, al menos, la última versión estable de Node y NPM. Asegurese de tenerlas para instalar correctamente las dependencias necesarias para correr el proyecto.
